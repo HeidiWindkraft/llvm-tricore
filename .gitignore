@@ -1,0 +1,2 @@
+# ignore the temporary files created by python
+utils/llvm-build/llvmbuild/*.pyc
